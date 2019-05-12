@@ -14,7 +14,7 @@ To get started all you have to do is
 1. Download a human action recognition dataset (I use HMDB51) http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/#Downloads
 2. Create a folder called "datasets" in the root of the project directory.
 3. Put the HMDB dataset in the datasets directory, unzip it, and rename it to "HMDB". Within the HMDB folder, unzip/unrar any actions you want recognized.
-4. Run this notebook!
+4. Run the models/cnn_rnn_models notebook!
 
 You should have a directory that looks something like this:
 
